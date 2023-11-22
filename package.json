@@ -1,7 +1,7 @@
 {
-  "name": "react_gh_pages_test",
+  "name": "proof-of-concept",
   "version": "0.1.0",
-  "homepage": "https://joac001.github.io/react_gh_pages_test",
+  "homepage": "https://joac001.github.io/proof-of-concept",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
