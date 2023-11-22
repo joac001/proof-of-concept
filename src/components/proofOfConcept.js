@@ -23,8 +23,8 @@ function ProofOfConcept() {
 
     return (
         <div className="poc-container">
+            <h3>Local storage proof of concept</h3>
             <div class="input-group">
-
                 <textarea
                     class="form-control"
                     aria-label="With textarea"
